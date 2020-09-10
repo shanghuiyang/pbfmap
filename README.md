@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/shanghuiyang/pbfmap.svg?branch=master)](https://travis-ci.org/shanghuiyang/pbfmap)
+
 # pbfmap
 
 pbfmap is a reader of osm pbf in pure golang.

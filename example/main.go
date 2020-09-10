@@ -1,9 +1,3 @@
-# pbfmap
-
-pbfmap is a reader of osm pbf in pure golang.
-
-## usage
-```go
 package main
 
 import (
@@ -50,4 +44,3 @@ func main() {
 
 	return
 }
-```

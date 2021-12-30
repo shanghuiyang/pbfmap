@@ -1,7 +1,0 @@
-language: go
-
-go:
-  - master
-
-notifications:
-  slack: grab:OVbEkJH3R10nkyKfwT996cB5

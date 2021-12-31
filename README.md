@@ -1,5 +1,6 @@
 # pbfmap
-[![Build status](https://github.com/shanghuiyang/pbfmap/workflows/CI/badge.svg)](https://github.com/shanghuiyang/pbfmap/actions)
+[![CI](https://github.com/shanghuiyang/pbfmap/actions/workflows/ci.yml/badge.svg)](https://github.com/shanghuiyang/pbfmap/actions/workflows/ci.yml)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/shanghuiyang/pbfmap/blob/master/LICENSE)
 
 pbfmap is a reader of osm pbf in pure golang.
 
